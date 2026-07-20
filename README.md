@@ -1,4 +1,4 @@
-# agentic-ml-math-tutor
+# agentic-enterprise-Document-Reasoning-System
 #Company name (fintech) 
 #HK groups (stock broker like zerodha) 
 #Industry = FinTech SaaS
